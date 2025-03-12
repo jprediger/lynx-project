@@ -1,21 +1,14 @@
-## Rspeedy project
+## Projeto Lynx
 
-This is a ReactLynx project bootstrapped with `create-rspeedy`.
+Projeto para estudar as funcionalidades do framework Lynx
 
-## Getting Started
+## Como rodar o projeto no celular
 
-First, install the dependencies:
+- Baixar o app no celular:
+(https://github.com/user-attachments/assets/f37e878f-2ae1-4b9e-893c-989f3d5b5d2e)
 
-```bash
-pnpm install
-```
+- npm install
+- npm run dev
 
-Then, run the development server:
+- Escanear o QR Code gerado no terminal no App Lynx
 
-```bash
-pnpm run dev
-```
-
-Scan the QRCode in the terminal with your LynxExplorer App to see the result.
-
-You can start editing the page by modifying `src/App.tsx`. The page auto-updates as you edit the file.
